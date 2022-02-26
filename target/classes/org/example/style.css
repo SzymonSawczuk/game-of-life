@@ -1,0 +1,21 @@
+.root{
+    -fx-focus-color: transparent;
+}
+#livingcell, #deadcellNext{
+    -fx-background-color: white;
+    /*-fx-border-width: 1px;*/
+    /*-fx-border-color: white;*/
+}
+#deadcell, #livingcellNext{
+    -fx-background-color: black;
+    /*-fx-border-width: 1px;*/
+    /*-fx-border-color: black;*/
+}
+.button{
+    -fx-background-color: white;
+    -fx-border-width: 0;
+}
+#topPanel{
+    -fx-background-color: #1d1c1c;
+
+}
